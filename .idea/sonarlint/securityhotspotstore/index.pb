@@ -7,3 +7,5 @@ Q
 !contracts/component-tracking.clar,8/2/823291af58253bbc59d4a5798b7ef6e14bff92c9
 N
 contracts/defect-tracking.clar,b/c/bc6ddb13726aded903f7194f95e5d7d9be94f1f5
+T
+$contracts/facility-verification.clar,8/4/846317c1e114e49185758a0163ab152909b6c720
