@@ -9,3 +9,5 @@ N
 contracts/defect-tracking.clar,b/c/bc6ddb13726aded903f7194f95e5d7d9be94f1f5
 T
 $contracts/facility-verification.clar,8/4/846317c1e114e49185758a0163ab152909b6c720
+O
+contracts/testing-protocol.clar,a/e/ae6f30b4aca35bea72819c3b9ad16efe73834ffe
