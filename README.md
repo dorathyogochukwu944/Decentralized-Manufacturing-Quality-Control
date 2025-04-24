@@ -1,0 +1,2 @@
+# Decentralized Manufacturing Quality Control
+ 
